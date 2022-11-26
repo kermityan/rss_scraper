@@ -7,4 +7,5 @@ It also can limit the number of the items presented and represent the RSS feed a
 
 Usage:
 rss_scraper.py --limit N --json URL
+
 --limit and --json are optional keys
